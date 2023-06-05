@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form demo...</title>
+</head>
+<body><center>
+	<H1>THIS IS FORM DEMO</H1>
+	<link rel="stylesheet" type="text/css" href="h1style.css">
+	<form action="result.html">
+		<h3>ALREADY HAVEA ACCOUNT? SIGNUP HERE..</h3>
+		<button value="SIGNIN">SIGNUP</button><br><br>
+		<h3>NEW USER? SIGNIN HERE...</h3>
+		<label for="SIGNIN"> </label>
+		
+		<a href="SIGNIN.HTML" ><button value="SIGNIN"></button>signin</a>
+
+		<!-- <label for="name">NAME</label>
+		<input id="name" type="text" name="" placeholder="enter your name" required=""><br><br>
+		<label for="age"  >AGE</label>
+		<input id="age" type="number" name="" placeholder=" EG.34" required=""><br><br>
+		<label for="gender">GENDER:</label>
+		<label for="yes">Female</label>
+		<input id="yes" type="radio" name="gender" value="feeeeeemale" >
+		<label for="gender">male</label>
+		<input id="no" type="radio" name="gender" value="male" ><br><br> 
+		<label for="mail">EMAIL:</label>
+		<input type="mail" name="email" placeholder="enter email" ><br><br>
+		<label for="PASSWD">PASSWORD:</label>
+		<input type="PASSWORD" name="" placeholder="enter your password"><br><br>
+
+
+
+		
+
+
+
+		<label for="sub"> Submit here</label>
+		<input type="Submit" name="" value="Submit Here"> -->
+
+	</form>
+
+</body></center>
+</html>
