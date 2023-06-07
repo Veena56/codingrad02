@@ -7,18 +7,11 @@
     <title>Practice_2</title>
 </head>
 <body>
-    <h1>This is to Practice</h1>
-    <h2>Hi .....hello</h2>
-    <p>First Commit</p>
-    <p>-------------------------------</p>
-    <p>This is modified one</p>
-    <p>Second Commit</p>
-    <p>--------------------------------</p>
-    <p>Third commit</p>
-    <p>--------------------------------</p>
-    <p>--------------------------------</p>
-    <p>--------------------------------</p>
-    <p>--------------------------------</p>
+    <h1>This is to practice the pull command from the git</h1>
+    <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores excepturi voluptate facere!
+    </p>
+    <h2><center>This is the merging file</center></h2>
 
 </body>
 </html>
